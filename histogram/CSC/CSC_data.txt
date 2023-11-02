@@ -1,0 +1,4 @@
+file	Met_Chain	Met_ResNo	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	distance	delta	theta
+1yu5.pdb	X	53	X	159	O	O	HOH	3.286	61.5	118
+2g6q.pdb	A	226	A	222	O	OG	SER	3.081	32.5	167
+5gua.pdb	A	79	A	81	N	ND2	ASN	3.257	-79.0	159
