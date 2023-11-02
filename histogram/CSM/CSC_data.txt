@@ -1,0 +1,11 @@
+file	Cys_Chain	Cys_ResNo	Metal	Metal_Atom_No	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	SG-Metal_distance	distance	delta	theta
+5wlf.pdb	A	913	ZN	503	A	935	N	N	HIS	2.333	3.285	86.9	90
+5wlf.pdb	A	915	ZN	503	A	935	N	ND1	HIS	2.29	3.231	6.400000000000006	86
+5wlf.pdb	A	927	ZN	502	A	958	N	N	CYS	2.328	3.336	86.0	89
+5wlf.pdb	A	930	ZN	502	A	1161	O	O	HOH	2.346	3.2	77.2	93
+5wlf.pdb	A	958	ZN	502	A	1162	O	O	HOH	2.35	3.31	77.5	125
+5wlf.pdb	A	961	ZN	502	A	1135	O	O	HOH	2.296	3.197	89.8	150
+3iwl.pdb	A	12	PT	498	A	141	O	O	HOH	2.297	3.019	-85.9	118
+3iwl.pdb	A	15	PT	498	A	11	N	N	THR	2.354	3.176	-89.1	82
+2poi.pdb	A	63	ZN	620	A	65	N	N	SER	2.328	3.32	-82.1	132
+2poi.pdb	A	66	ZN	620	A	87	O	OG	SER	2.362	3.137	77.9	103
