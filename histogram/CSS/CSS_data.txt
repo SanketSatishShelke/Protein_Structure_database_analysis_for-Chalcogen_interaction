@@ -1,0 +1,4 @@
+file	Cys1_Chain	Cys1_ResNo	Cys2_Chain	Cys2_ResNo	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	distance	delta	theta
+1uoy.pdb	A	18	A	38	A	42	N	N	LYS	3.323	53.8	151
+6ay8.pdb	A	16	A	34	A	12	O	O	CYS	3.192	-33.4	128
+6ay8.pdb	A	27	A	7	A	229	O	O	HOH	3.181	3.6	133
