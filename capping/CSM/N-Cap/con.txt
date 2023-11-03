@@ -1,0 +1,3 @@
+file	Cys_Chain	Cys_ResNo	Metal	Metal_Atom_No	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	SG-Metal_distance	distance	delta	theta
+5wlf.pdb	A	958	ZN	502	A	961	N	N	CYS	2.7	3.47	-60.59	115.5
+5wlf.pdb	A	958	ZN	502	A	961	N	N	CYS	2.7	3.47	-60.59	115.5
