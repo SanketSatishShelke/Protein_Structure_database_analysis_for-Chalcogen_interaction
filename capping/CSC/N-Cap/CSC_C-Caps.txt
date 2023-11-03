@@ -1,0 +1,3 @@
+file	Met_Chain	Met_ResNo	IntResChain	IntResNo	IntAtomID	distance	delta	theta	distance_ON	angle_N_i-4O	CapType	HelixChainID	HelixRes1	HelixResLast
+1irq.pdb	B	25	A	35	N	3.5	89.9	118.5	10.076	131.49	N1-Cap	A	34	48
+1irq.pdb	B	25	A	35	N	3.5	89.9	118.5	10.076	131.49	N1-Cap	A	34	48
