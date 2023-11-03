@@ -1,0 +1,3 @@
+file	Cys1_Chain	Cys1_ResNo	Cys2_Chain	Cys2_ResNo	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	distance	delta	theta
+3bqh.pdb	A	207	A	349	A	210	N	N	GLY	3.59	65.8	111.8
+3bqh.pdb	A	207	A	349	A	210	N	N	GLY	3.59	65.8	111.8
