@@ -1,0 +1,3 @@
+file	Cys_Chain	Cys_ResNo	Metal	Metal_Atom_No	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	SG-Metal_distance	distance	delta	theta
+4oll.pdb	A	21	HG	2475	A	18	O	O	PHE	2.7	3.039	-2.4	130.5
+4oll.pdb	A	21	HG	2475	A	18	O	O	PHE	2.7	3.039	-2.4	130.5
