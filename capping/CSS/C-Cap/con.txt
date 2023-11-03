@@ -1,0 +1,3 @@
+file	Cys1_Chain	Cys1_ResNo	Cys2_Chain	Cys2_ResNo	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	distance	delta	theta
+4wp4.pdb	A	37	A	41	A	30	O	O	TYR	3.139	9.7	126.8
+4wp4.pdb	A	37	A	41	A	30	O	O	TYR	3.139	9.7	126.8
