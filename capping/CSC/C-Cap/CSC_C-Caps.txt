@@ -1,0 +1,3 @@
+file	Met_Chain	Met_ResNo	IntResChain	IntResNo	IntAtomID	distance	delta	theta	distance_ON	CapType	HelixChainID	HelixRes1	HelixResLast
+5xg5.pdb	A	40	A	37	O	3.039	13.300000000000011	126.7	10.562	C3-Cap	A	37	40
+5xg5.pdb	A	40	A	37	O	3.039	13.300000000000011	126.7	10.562	C3-Cap	A	37	40

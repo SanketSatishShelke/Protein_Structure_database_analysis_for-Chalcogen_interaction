@@ -1,0 +1,3 @@
+file	Met_Chain	Met_ResNo	IntResChain	IntResNo	IntAtom	IntAtomID	IntRes	distance	delta	theta
+5xg5.pdb	A	40	A	37	O	O	HIS	3.039	13.300000000000011	126.7
+5xg5.pdb	A	40	A	37	O	O	HIS	3.039	13.300000000000011	126.7
