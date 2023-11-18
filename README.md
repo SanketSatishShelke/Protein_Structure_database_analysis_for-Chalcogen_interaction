@@ -1,7 +1,3 @@
-# Protein_Structure_database_analysis_for-Chalcogen_interaction
-
-This repository contains code used for structural and statestical analysis of Protein Structure Database (PDB) to understand the Sulfur mediated Chalcogen interaction.
-
 Sulfur-mediated chalcogen versus hydrogen bonds in proteins: a see-saw effect in the conformational space.
 Published online by Cambridge University Press:  27 April 2023.
 DOI: https://doi.org/10.1017/qrd.2023.3.pr1 
